@@ -1,2 +1,2 @@
 # the-little-schemer-in-racket
-racket codes for *the Little Schemer (by Danial P. Friedman & Matthias Felleisen)*
+racket codes in *the Little Schemer (by Danial P. Friedman & Matthias Felleisen)*
