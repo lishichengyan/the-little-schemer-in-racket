@@ -1,4 +1,4 @@
-;; plus two tuples
+;; add two tuples
 (define (tup+ tup1 tup2)
   (cond
     ((and (null? tup1)(null? tup2))
