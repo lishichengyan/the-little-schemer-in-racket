@@ -1,4 +1,4 @@
-;; delete the 1st a appearing in list l
+;; delete the 1st a in list l
 (define (rember a l)
   (cond
     ((null? l)(quote()))
