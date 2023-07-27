@@ -1,4 +1,4 @@
-;; judge if a number is 1
+;; check if a number is 1
 (define (one? n)
   (= 1 n))
 ;; another way
